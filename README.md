@@ -15,4 +15,4 @@ VBDS analyzes hydraulic pressure signatures to predict transmission failures 30 
 
 ## Contact
 
-For early access: [your-email@example.com]
+For early access: [scarl3tsgs@gmail.com]
